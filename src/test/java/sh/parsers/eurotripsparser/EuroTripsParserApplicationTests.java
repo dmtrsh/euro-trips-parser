@@ -1,11 +1,5 @@
 package sh.parsers.eurotripsparser;
 
-import com.pengrad.telegrambot.TelegramBot;
-import com.pengrad.telegrambot.model.Message;
-import com.pengrad.telegrambot.model.request.ForceReply;
-import com.pengrad.telegrambot.model.request.ParseMode;
-import com.pengrad.telegrambot.request.SendMessage;
-import com.pengrad.telegrambot.response.SendResponse;
 import org.jsoup.nodes.Document;
 import org.junit.Test;
 import org.junit.runner.RunWith;
